@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kewen Wu / Home"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Kewen wu"
-description              : &description "Senior undergraduate student in Tsinghua University, Beijing, China"
+name                     : &name 
+description              : &description
 url                      : https://k101w.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "k101w/k101w.github.io"
