@@ -9,53 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-MetaConscious Group in Massachusetts Institute of Technology
+MetaConscious Group 
 ======
-* led by **{Prof. Guangyu.Robert.Yang}
-* 07/2022--Presen
+Massachusetts Institute of Technology
+------
+* led by **Prof. Guangyu.Robert.Yang** （*07/2022--Present*）
 * We built neural network which could match the experiment data in cognitive science, aiming to model a specific function or behaviour of human or animals. 
-    ** Modeled the memory recall system of human beings, including the primary and recency effect and specific recall order during the process of free recall. 
-    ** Focused on modeling the experiment data of the trajectories of mice in labyrinth, aiming to reveal the biological exploration system through reinforcement learning.
+    * Modeled the memory recall system of human beings, including the primary and recency effect and specific recall order during the process of free recall. 
+    * Focused on modeling the experiment data of the trajectories of mice in labyrinth, aiming to reveal the biological exploration system through reinforcement learning.
     
-Cognition lab in Beijing Institute for General Artificial Intelligence
+Cognition lab
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Beijing Institute for General Artificial Intelligence
+------
+* led by **Dr. Chi Zhang, Dr. Yixin Zhu, and Prof. Song-chun Zhu** （*02/2022--Present*）
+* Combined various methods in machine learning algorithms, especially computer version and Multimodal Fusion to  move closer to the capacities of human learning, aiming to construct more powerful AI systems as well as more powerful theoretical paradigms for understanding human cognition.
+* We focused on analyzing the two learning mechanisms in recent physical reasoning studies.
+    * Conducted a thorough investigation between the Learning From Intuition and the Learning From Dynamics mechanisms.
+    * Challenged the effectiveness of mainstream method that designed dynamics prediction modules and treated physical reasoning as a downstream task, and gave potential orientation for future work based on our research.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Metric learing Group
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Tsinghua University
+------
+* led by **Prof. Jiwen Lu* （*03/2021--01/2022*）
+* We proposed a pair-adaptive visual similarity learning (PaVSL) framework based on transformer for image retrieval.
+    * Adopted self-attention module to similarity method aiming to enable message passing through cross-sample embeddings.
+    * Proposed an adaptive embedding selection (AES) method to only preserve a subset of semantic-relevant embeddings for each ensemble to participate in the similarity inference.
