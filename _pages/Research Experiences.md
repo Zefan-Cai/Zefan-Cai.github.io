@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Research Experiences"
+permalink: /Research Experiences/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+MetaConscious Group in Massachusetts Institute of Technology
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+* led by **{Prof. Guangyu.Robert.Yang}
+* 07/2022--Presen
+* We built neural network which could match the experiment data in cognitive science, aiming to model a specific function or behaviour of human or animals. 
+    ** Modeled the memory recall system of human beings, including the primary and recency effect and specific recall order during the process of free recall. 
+    ** Focused on modeling the experiment data of the trajectories of mice in labyrinth, aiming to reveal the biological exploration system through reinforcement learning.
+    
+Cognition lab in Beijing Institute for General Artificial Intelligence
 ======
 * Summer 2015: Research Assistant
   * Github University
