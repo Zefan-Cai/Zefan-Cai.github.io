@@ -8,20 +8,9 @@ author_profile: true
 <small>[NeurIPS 2022 conference]</small>
 On the Learning Mechanisms in Physical Reasoning
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
+![introduction](introduction.jpeg)
 
-![introduction](introduction.jpg)
-
-<hr>
 
 **Abstract**
 
