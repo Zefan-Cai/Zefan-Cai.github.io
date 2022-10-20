@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[please find my cv here](Kewen Wu CV.pdf)
+[Please find my cv here](Kewen Wu CV.pdf)
