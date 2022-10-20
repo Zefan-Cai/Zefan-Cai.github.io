@@ -9,6 +9,9 @@ author_profile: true
 On the Learning Mechanisms in Physical Reasoning
 ---
 
+Shiqian Li*, Kewen Wu*, Chi Zhang, Yixin Zhu.     [October, 2022]
+
+
 ![introduction](introduction.jpeg)
 
 
