@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             :  &emsp；"Kewen Wu"
+  name             :  "Kewen Wu"
   avatar           : "WechatIMG31.jpeg"
   bio              : "Senior undergraduate student in Tsinghua University"
   location         : "Beijing,China"
