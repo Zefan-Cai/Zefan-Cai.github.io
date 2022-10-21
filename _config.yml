@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             :  "Kewen Wu"
+  name             :  &emsp；"Kewen Wu"
   avatar           : "WechatIMG31.jpeg"
   bio              : "Senior undergraduate student in Tsinghua University"
   location         : "Beijing,China"
@@ -99,7 +99,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name 
-description              : &description
+description              : "About me"
 url                      : https://k101w.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "k101w/k101w.github.io"
