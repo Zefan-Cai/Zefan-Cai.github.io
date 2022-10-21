@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-MetaConscious Group，Massachusetts Institute of Technology   
+MetaConscious Group，Massachusetts Institute of Technology &emsp; &emsp; &emsp; &emsp; --<small>*07/2022--Present*</small>
 ---
-*07/2022--Present*
+
 
 * We built neural network which could match the experiment data in cognitive science, aiming to model a specific function or behaviour of human or animals. 
     * Modeled the memory recall system of human beings, including the primary and recency effect and specific recall order during the process of free recall. 
