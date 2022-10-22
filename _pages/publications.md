@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 
----
-[NeurIPS 2022 conference]
-On the Learning Mechanisms in Physical Reasoning
----
 
-Shiqian Li\*, Kewen Wu\*, Chi Zhang, Yixin Zhu.     [October, 2022]
+**[NeurIPS 2022 conference]
+On the Learning Mechanisms in Physical Reasoning**
+
+
+<small>Shiqian Li\*, Kewen Wu\*, Chi Zhang, Yixin Zhu.[October, 2022]<\small>
 
 
 ![introduction](introduction.jpeg)
