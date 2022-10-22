@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-MetaConscious Group，Massachusetts Institute of Technology &emsp; &emsp; &emsp; &emsp; --<small>*07/2022--Present*</small>
+MetaConscious Group，Massachusetts Institute of Technology &emsp; &emsp; <small>*07/2022--Present*</small>
 ---
 
 
