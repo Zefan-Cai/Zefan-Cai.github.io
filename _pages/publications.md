@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
+---
 
 **[NeurIPS 2022 conference]
 On the Learning Mechanisms in Physical Reasoning**
