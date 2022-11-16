@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             :  "Kewen Wu"
-  avatar           : "WechatIMG42.jpeg"
+  avatar           : "profile.jpeg"
   bio              : "Senior undergraduate student in Tsinghua University"
   location         : "Beijing,China"
   CV               : <iframe id="myframe"
