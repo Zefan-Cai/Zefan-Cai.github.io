@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**[NeurIPS 2022 conference]
+**[NeurIPS 2022 conference (spotlight presentation)]
 On the Learning Mechanisms in Physical Reasoning**
 
 
