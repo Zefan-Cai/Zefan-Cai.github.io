@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kewen Wu"
+title                    : "Zefan Cai"
 title_separator          : "-"
 name                     : &name 
 description              : &description
-url                      : https://k101w.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Zefan-Cai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "k101w/k101w.github.io"
+repository               : "Zefan-Cai/Zefan-Cai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -100,9 +100,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name 
 description              : "Kewen Wu"
-url                      : https://k101w.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Zefan-Cai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "k101w/k101w.github.io"
+repository               : "Zefan-Cai/Zefan-Cai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -188,7 +188,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "k101w"
+  github           : "Zefan-Cai"
   google_plus      :
   keybase          :
   instagram        :
@@ -413,7 +413,7 @@ compress_html:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "k101w"
+  github           : "Zefan-Cai"
   google_plus      :
   keybase          :
   instagram        :
